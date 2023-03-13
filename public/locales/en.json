@@ -1,0 +1,10 @@
+{"Create": "Create", "Load": "Load", "CreateToken": "Create Token",
+"Inputnamehere": "Input name here", "Symbol": "Symbol", "decimal": "decimal", "decimialexplian": "18",
+"TotalSupply": "Total Supply", "Advanced": "Advanced", "Create/OwnerAddress": "Create/Owner Address", "Deflation": "Deflation",
+"Transaction Tax": "Transaction Tax%", "Tax Recieve Address": "Tax Recieve Address", "Burn Fee(%)": "Burn Fee(%)",
+"Buyback Tax": "Buyback Tax", "Holders reward fee": "Holders reward fee", "Holders reward fee(%)": "Holders reward fee(%)",
+"Automatic LP": "Automatic LP", "Automatic LP(%)": "Automatic LP(%)", "Create Token": "Create Token", "Buyback Fee(%)": "Buyback Fee(%)",
+"Mint": "Mint", "Burn": "Burn", "Pause": "Pause", "Blacklist": "Blacklist", "HOME": "Home",
+"CREATEPRESALE": "Create Presale", "LaunchpadList": "LaunchpadList", "Presale Search": "Presale Search",
+"Token Lock": "Token Lock", "Liquidity Lock": "Liquidity Lock", "Token1": "Token",
+"standliquidity": "Standar Token"}
