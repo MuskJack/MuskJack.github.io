@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.ae32a015.chunk.css",
-    "main.js": "/static/js/main.a9356dcc.chunk.js",
+    "main.js": "/static/js/main.15560039.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.863b1de5.js",
     "static/css/2.1226b68b.chunk.css": "/static/css/2.1226b68b.chunk.css",
-    "static/js/2.0f021478.chunk.js": "/static/js/2.0f021478.chunk.js",
+    "static/js/2.d3db7f4e.chunk.js": "/static/js/2.d3db7f4e.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.0f021478.chunk.js.LICENSE.txt": "/static/js/2.0f021478.chunk.js.LICENSE.txt",
+    "static/js/2.d3db7f4e.chunk.js.LICENSE.txt": "/static/js/2.d3db7f4e.chunk.js.LICENSE.txt",
     "static/media/b1.37181539.jpg": "/static/media/b1.37181539.jpg",
     "static/media/b2.6d20c42a.jpg": "/static/media/b2.6d20c42a.jpg",
     "static/media/b3.3478fbcb.jpg": "/static/media/b3.3478fbcb.jpg",
+    "static/media/bnb.2111c0df.png": "/static/media/bnb.2111c0df.png",
     "static/media/btc.f345f5fa.png": "/static/media/btc.f345f5fa.png",
     "static/media/eth.7efcceea.png": "/static/media/eth.7efcceea.png",
     "static/media/logo.7ec04422.png": "/static/media/logo.7ec04422.png",
@@ -24,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.863b1de5.js",
     "static/css/2.1226b68b.chunk.css",
-    "static/js/2.0f021478.chunk.js",
+    "static/js/2.d3db7f4e.chunk.js",
     "static/css/main.ae32a015.chunk.css",
-    "static/js/main.a9356dcc.chunk.js"
+    "static/js/main.15560039.chunk.js"
   ]
 }
